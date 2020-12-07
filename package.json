@@ -6,15 +6,15 @@
 	"license": "MIT",
 	"publisher": "Seven Heart",
 	"bugs": {
-		"url": "https://github.com/stvenx/Monokai-ST3-theme-for-vscode/issues"
+		"url": "https://github.com/stvenx/vscode-monokai-sidebar-light-theme/issues"
 	},
-	"homepage": "https://github.com/stvenx/Monokai-ST3-theme-for-vscode/",
+	"homepage": "https://github.com/stvenx/vscode-monokai-sidebar-light-theme/",
 	"engines": {
 		"vscode": "^1.26.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/stvenx/Monokai-ST3-theme-for-vscode.git"
+		"url": "https://github.com/stvenx/vscode-monokai-sidebar-light-theme.git"
 	},
 	"author": {
 		"name": "Seven Heart"
